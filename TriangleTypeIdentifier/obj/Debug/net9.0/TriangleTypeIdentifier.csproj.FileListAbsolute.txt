@@ -1,0 +1,15 @@
+D:\dcit318-assignment1-11288954\TriangleTypeIdentifier\bin\Debug\net9.0\TriangleTypeIdentifier.exe
+D:\dcit318-assignment1-11288954\TriangleTypeIdentifier\bin\Debug\net9.0\TriangleTypeIdentifier.deps.json
+D:\dcit318-assignment1-11288954\TriangleTypeIdentifier\bin\Debug\net9.0\TriangleTypeIdentifier.runtimeconfig.json
+D:\dcit318-assignment1-11288954\TriangleTypeIdentifier\bin\Debug\net9.0\TriangleTypeIdentifier.dll
+D:\dcit318-assignment1-11288954\TriangleTypeIdentifier\bin\Debug\net9.0\TriangleTypeIdentifier.pdb
+D:\dcit318-assignment1-11288954\TriangleTypeIdentifier\obj\Debug\net9.0\TriangleTypeIdentifier.GeneratedMSBuildEditorConfig.editorconfig
+D:\dcit318-assignment1-11288954\TriangleTypeIdentifier\obj\Debug\net9.0\TriangleTypeIdentifier.AssemblyInfoInputs.cache
+D:\dcit318-assignment1-11288954\TriangleTypeIdentifier\obj\Debug\net9.0\TriangleTypeIdentifier.AssemblyInfo.cs
+D:\dcit318-assignment1-11288954\TriangleTypeIdentifier\obj\Debug\net9.0\TriangleTypeIdentifier.csproj.CoreCompileInputs.cache
+D:\dcit318-assignment1-11288954\TriangleTypeIdentifier\obj\Debug\net9.0\TriangleTypeIdentifier.sourcelink.json
+D:\dcit318-assignment1-11288954\TriangleTypeIdentifier\obj\Debug\net9.0\TriangleTypeIdentifier.dll
+D:\dcit318-assignment1-11288954\TriangleTypeIdentifier\obj\Debug\net9.0\refint\TriangleTypeIdentifier.dll
+D:\dcit318-assignment1-11288954\TriangleTypeIdentifier\obj\Debug\net9.0\TriangleTypeIdentifier.pdb
+D:\dcit318-assignment1-11288954\TriangleTypeIdentifier\obj\Debug\net9.0\TriangleTypeIdentifier.genruntimeconfig.cache
+D:\dcit318-assignment1-11288954\TriangleTypeIdentifier\obj\Debug\net9.0\ref\TriangleTypeIdentifier.dll
