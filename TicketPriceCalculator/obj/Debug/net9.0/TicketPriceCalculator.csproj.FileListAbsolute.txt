@@ -1,0 +1,15 @@
+D:\dcit318-assignment1-11288954\TicketPriceCalculator\bin\Debug\net9.0\TicketPriceCalculator.exe
+D:\dcit318-assignment1-11288954\TicketPriceCalculator\bin\Debug\net9.0\TicketPriceCalculator.deps.json
+D:\dcit318-assignment1-11288954\TicketPriceCalculator\bin\Debug\net9.0\TicketPriceCalculator.runtimeconfig.json
+D:\dcit318-assignment1-11288954\TicketPriceCalculator\bin\Debug\net9.0\TicketPriceCalculator.dll
+D:\dcit318-assignment1-11288954\TicketPriceCalculator\bin\Debug\net9.0\TicketPriceCalculator.pdb
+D:\dcit318-assignment1-11288954\TicketPriceCalculator\obj\Debug\net9.0\TicketPriceCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\dcit318-assignment1-11288954\TicketPriceCalculator\obj\Debug\net9.0\TicketPriceCalculator.AssemblyInfoInputs.cache
+D:\dcit318-assignment1-11288954\TicketPriceCalculator\obj\Debug\net9.0\TicketPriceCalculator.AssemblyInfo.cs
+D:\dcit318-assignment1-11288954\TicketPriceCalculator\obj\Debug\net9.0\TicketPriceCalculator.csproj.CoreCompileInputs.cache
+D:\dcit318-assignment1-11288954\TicketPriceCalculator\obj\Debug\net9.0\TicketPriceCalculator.sourcelink.json
+D:\dcit318-assignment1-11288954\TicketPriceCalculator\obj\Debug\net9.0\TicketPriceCalculator.dll
+D:\dcit318-assignment1-11288954\TicketPriceCalculator\obj\Debug\net9.0\refint\TicketPriceCalculator.dll
+D:\dcit318-assignment1-11288954\TicketPriceCalculator\obj\Debug\net9.0\TicketPriceCalculator.pdb
+D:\dcit318-assignment1-11288954\TicketPriceCalculator\obj\Debug\net9.0\TicketPriceCalculator.genruntimeconfig.cache
+D:\dcit318-assignment1-11288954\TicketPriceCalculator\obj\Debug\net9.0\ref\TicketPriceCalculator.dll
